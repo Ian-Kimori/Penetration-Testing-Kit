@@ -1,4 +1,4 @@
-# Dex-Pentest-Kit
+# Penetration-Testing-Kit
 Collection of Security / Tools / Vulnerabilities. Resource to learn and refresh your memory from.
 
 ---
